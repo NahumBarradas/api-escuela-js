@@ -1,3 +1,3 @@
-const password = 'nahum'
+const password = 'nahumbarradas'
 
 module.exports = password
